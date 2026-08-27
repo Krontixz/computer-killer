@@ -14,5 +14,5 @@ app.whenReady().then(async function() {
       height: 600
     });
     win.loadFile('index.html');
-  }, 1000);
+  }, 500);
 });
