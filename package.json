@@ -1,0 +1,11 @@
+{
+  "name" : "Windows Killer",
+  "description" : "Shut down devices and scam people!",
+  "version" : "1.0.0",
+  "scripts" : {
+    "start" : "npx electron index.js"
+  },
+  "dependencies" : {
+    "electron" : "*",
+  }
+}
