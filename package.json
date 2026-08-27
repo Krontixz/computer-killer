@@ -6,6 +6,6 @@
     "start" : "npx electron index.js"
   },
   "dependencies" : {
-    "electron" : "*",
+    "electron" : "*"
   }
 }
